@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 🔭 I’m currently working on [anime E-commerce site](https://omk-coder.github.io/first-web-project.io/)
 
 <br>
-<img align="right" height="250" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/811541cf3a5acf308a5079febaa31e37-1602084278/Pixxle_Character_Animation/do-high-quality-pixel-art-and-animations.gif"><br>
+<br>
 - 🌱 I’m currently learning **Javascript and sometimes Practicing DSA** 
 - <br></br>
 -👯 I’m looking to collaborate on **Web-based project**
@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" height="250" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/811541cf3a5acf308a5079febaa31e37-1602084278/Pixxle_Character_Animation/do-high-quality-pixel-art-and-animations.gif">
 <p align="left">
 <a href="https://twitter.com/oramishte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oramishte" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/omkar-ramishte-9ba784207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omkar-ramishte-9ba784207/" height="30" width="40" /></a>
