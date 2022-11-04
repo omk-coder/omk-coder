@@ -52,5 +52,5 @@ You can click the Preview link to take a look at your changes.
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omk-coder&" alt="omk-coder" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=omk-coder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omk-coder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
