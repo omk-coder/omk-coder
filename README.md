@@ -12,15 +12,12 @@
 - 💞️ I’m looking to collaborate on project based on web dev
 - 
 - 📫 How to reach me --->
-<!---
-omk-coder/omk-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
  <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A Beginner-Friendly Frontend Developer</h3>
 <p align="center"> 
- <img  height="200px" src="https://user-images.githubusercontent.com/93393539/183282788-ce9187d3-96a0-4f7d-abf7-15cb9e8f5e79.png"> -->
+ <img  height="200px" src="https://user-images.githubusercontent.com/93393539/183282788-ce9187d3-96a0-4f7d-abf7-15cb9e8f5e79.png"> 
 </p> 
 🔭 I’m currently working on [anime E-commerce site](https://omk-coder.github.io/first-web-project.io/)
 
