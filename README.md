@@ -21,7 +21,7 @@
 <p align="center"> 
  <img  height="200px" src="https://user-images.githubusercontent.com/93393539/183282788-ce9187d3-96a0-4f7d-abf7-15cb9e8f5e79.png"> 
 </p> 
-🔭 I’m currently working on <a href="https://omk-coder.github.io/first-web-project.io/">anime E-commerce site</a>
+
 
 <br>
 
