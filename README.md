@@ -14,7 +14,7 @@
 - 📫 How to reach me --->
 
 
- <h1 align="center">Hi 👋, I'm Omkar</h1>
+<pre align="center"> <b>  This is Omkar</b>🙋</pre>
 <h3 align="center">A Beginner-Friendly Frontend Developer</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=omk-coder&label=Profile%20views&color=0e75b6&style=flat" alt="omk-coder" /> </p>
 
