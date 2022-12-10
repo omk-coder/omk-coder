@@ -59,5 +59,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=omk-coder&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 <br>
-<h2 align="left">🏆 Github Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omk-coder" alt="omk-coder"></a> 
+
