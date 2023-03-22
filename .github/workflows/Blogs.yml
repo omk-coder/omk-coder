@@ -1,0 +1,16 @@
+name: Hashnode Blog
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  Blog:
+    name: Update this repo's README with latest DEV.to Articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "Recent Blogs on Hashnode"
+          feed_list: "https://omk.hashnode.dev/"
