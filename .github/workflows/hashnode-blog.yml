@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOG-LIST"
-          feed_list: "https://omk.hashnode.dev/feed/omkar"
+          feed_list: "https://omk.hashnode.dev/feed"
