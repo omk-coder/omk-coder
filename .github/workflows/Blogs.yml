@@ -6,7 +6,7 @@ on:
 
 jobs:
   Blog:
-    name: Update this repo's README with latest DEV.to Articles
+    name: latest Hashnode Blogs
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
