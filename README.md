@@ -62,5 +62,15 @@
 <br/>  This Blog is for those who want to know the overview of Front-end Development
 
 This Blog covers the topic and technologies related to Front-end Development, and also covers how you can start with your Front-end Journey... </p> <br/> <br/>
+<p align="left">
+<a href="https://omk.hashnode.dev/alternate-ways-to-create-react-app" title="Alternate ways to create"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677239987646/94991ab3-b1b6-401a-b485-9000bb7e4444.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Alternate ways to create" width="250px" align="left" /></a>
+<a href="https://omk.hashnode.dev/alternate-ways-to-create-react-app" title="Alternate ways to create"><strong>Alternate Ways to Create-react-app...</strong></a>
+<br/> This blog cover some of the most efficent and faster tools 
+ <br/>
+ At beginning we always use  command create-react-app takes while building react app takes time and also slow in development process with the help of tool like Vite and frameworks like NEXT.JS we can create complex app with simple complexity.
+
+ 
 <!-- hashnode-BLOG-LIST:END -->
 ---
+
+
