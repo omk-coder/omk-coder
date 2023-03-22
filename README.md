@@ -45,7 +45,7 @@
 <p align="left">
 <a href="https://twitter.com/oramishte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oramishte" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/omkar-ramishte-9ba784207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="not found" height="30" width="40" /></a>
-<a href="https://hashnode.com/omk.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="omk.hashnode.dev" height="30" width="40" /></a>
+<a href="https://omk.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="omk.hashnode.dev" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -56,6 +56,11 @@
 ## <a href="https://omk.hashnode.dev/"><img src="https://daily-dev-tips.com/ezoimgfmt/cdn.hashnode.com/res/hashnode/image/upload/v1647152709324/BgqHEiR8w.png?ezimgfmt=rs:380x380/rscb2/ngcb2/notWebP" title="Hashnode" alt="Hashnode" width="25"/></a>   Recent Blogs on Hashnode.com 
 ---
 <!-- hashnode-BLOG-LIST:START -->
+<p align="left">
+<a href="https://omk.hashnode.dev/kickstart-your-journey-in-field-of-development" title="KickStart Your journey"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679250656998/82a96ea9-4205-4dd9-a152-050e20cab1bc.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="KickStart Your journey" width="250px" align="left" /></a>
+<a href="https://omk.hashnode.dev/kickstart-your-journey-in-field-of-development" title="KickStart Your journey"><strong>Kickstart Your Journey In Field of Development</strong></a>
+<br/>  This Blog is for those who want to know the overview of Front-end Development
 
+This Blog covers the topic and technologies related to Front-end Development, and also covers how you can start with your Front-end Journey... </p> <br/> <br/>
 <!-- hashnode-BLOG-LIST:END -->
 ---
