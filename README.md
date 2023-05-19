@@ -19,7 +19,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=omk-coder&label=Profile%20views&color=0e75b6&style=flat" alt="omk-coder" /> </p>
 
 <p align="center"> 
- <img  height="200px" src="https://user-images.githubusercontent.com/93393539/183282788-ce9187d3-96a0-4f7d-abf7-15cb9e8f5e79.png"> 
+ <img  height="200px" src="https://github.com/omk-coder/omk-coder/assets/93393539/0c11bb44-043a-434e-9275-2a805ed93987"> 
 </p> 
 
 
